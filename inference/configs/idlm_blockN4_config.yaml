@@ -1,0 +1,9 @@
+block_size: 7
+gen_block_size: 4
+confidence_threshold: 0.0
+temperature: 1.0
+top_k: 50
+top_p: 0.95
+use_spec_verify: true
+draft_conf_file: /root/I-DLM/results/draft_conf_N4.jsonl
+# confidence_accept_threshold: 0.5

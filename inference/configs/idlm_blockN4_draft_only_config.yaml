@@ -1,0 +1,8 @@
+block_size: 1
+gen_block_size: 1
+temperature: 1.0
+top_k: 50
+top_p: 0.95
+confidence_accept_threshold: 0.8
+stats_file: /tmp/idlm_stats.jsonl
+rounds_file: /tmp/idlm_rounds.jsonl
