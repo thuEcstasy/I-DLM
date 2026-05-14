@@ -1,7 +1,7 @@
 import json
 from collections import Counter
 
-file_path = "/root/I-DLM/results/draft_conf.jsonl"
+file_path = "/root/I-DLM/results/draft_conf_N4.jsonl"
 
 counter = Counter()
 total = 0
